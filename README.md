@@ -116,6 +116,8 @@ All dependencies must be documented. You may use NPM and/or Bower. Bower depende
 
 Manually downloading and linking to dependencies is highly discouraged.
 
-
+Suggesting Changes
+------------------
+If you identify something that needs to be changed in this document, start an issue. If you can think of a good solution, make those changes and submit a Pull Request.
 
 
