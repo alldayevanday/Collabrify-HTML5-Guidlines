@@ -1,4 +1,5 @@
-Style Guide
+Collabrify HTML5 Webapp Standards and Guidlines
+==============================================
 
 This document is a work in progress and you are URGED to suggest changes, if you disagree with anything contained in this document, we would love to know why and if you have a solid argument, we can fix it with your help.
 
