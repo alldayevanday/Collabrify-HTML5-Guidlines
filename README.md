@@ -112,9 +112,11 @@ Here is the suggested directory structure
 ```
 Style
 -----
-https://github.com/polarmobile/coffeescript-style-guide
-https://github.com/styleguide/javascript
+There are exellent style guides what we should follow
 
+https://github.com/polarmobile/coffeescript-style-guide
+
+https://github.com/styleguide/javascript
 
 Dependencies
 -----------
