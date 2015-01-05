@@ -44,7 +44,7 @@ This lets you declare how DOM elements are styled. You may not write this direct
 This is the programing language drives everything. You may not write this directly but you will have something else that compile to it. 
 
 ### Coffeescript
-All code should be written in this.
+All code should be written in Coffeescript.
 Reasons for choosing Coffeescript:
 * Coffeescript an Object Oriented language that exposes a traditional (à la C++/Java) view of inheritance on top of Javascript Prototypical inheritance. The only language we could presume someone taking the class knows is C++  and Coffeescript brings the Object model much closer to that.
 
@@ -54,7 +54,7 @@ Reasons for choosing Coffeescript:
 #### Documentation: http://coffeescript.org/
 
 ### SASS
-All styles should be written in this.
+All styles should be written in SASS.
 Reasons for choosing SASS:
 * Adds variables to CSS. Very useful sometimes.
 * Syntax similar to Coffeescript, which we are also using  
