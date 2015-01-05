@@ -54,10 +54,11 @@ Documentation: http://coffeescript.org/
 
 ### SASS
 All styles should be written in this.
+Docuemntation: http://sass-lang.com/documentation/file.SASS_REFERENCE.html
 Reasons for choosing SASS:
 * Adds variables to CSS. Very useful sometimes.
 * Syntax similar to Coffeescript, which we are also using
-Docuemntation: http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+
 
 ### Broccoli
 The most advanced (non) build step that handles all the things we are using.
@@ -69,18 +70,20 @@ Documentation: http://cordova.apache.org/docs/en/4.0.0/
 
 ### React.js
 View framework
+Documentation: http://facebook.github.io/react/docs/getting-started.html
 Reasons for choosing React:
 * Forces developers to divide code into many components. This is good for maintainability and reusability.
 * Eliminates the possibility of common performance mistakes.
 * Used on and developed by facebook.com, instagram.com, khanacademy.org and many more
-Documentation: http://facebook.github.io/react/docs/getting-started.html
+
 
 ### Flux
 Application Architecture
+Documentation: http://facebook.github.io/flux/docs/overview.html
 Reasons for choosing Flux:
 * Built around scalable productivity (not just your productivity right now but someone else’s when they see your code for the first time). Our code is expected to change hands every semester, so it is essential we use an application architecture that is designed for this
 * Pairs well with React
-Documentation: http://facebook.github.io/flux/docs/overview.html
+
 
 ### NPM/Bower
 Javascript Dependency management
