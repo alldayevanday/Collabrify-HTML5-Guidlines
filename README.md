@@ -140,9 +140,13 @@ https://github.com/styleguide/javascript
 
 Dependencies
 -----------
-All dependencies must be documented. You may use NPM and/or Bower. Bower dependencies should be considered static and must reside in /public. NPM dependencies are to be considered source.
+All dependencies must be documented. You may use NPM and/or Bower. All dependency code, regardless of it is obtained from should be considered source.
 
 Manually downloading and linking to dependencies is highly discouraged.
+
+Build Step
+----------
+The build step should compile the nessesary files into output bundles that are linked to by the main HTML page.
 
 Suggesting Changes
 ------------------
