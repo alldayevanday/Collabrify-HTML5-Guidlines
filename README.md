@@ -50,18 +50,22 @@ Reasons for choosing Coffeescript:
 
 * Coffeescript gets rid of unnecessary verbosity. This is a point of contention: some people just like their curly braces because they are used to them. This is still a point in favor of Coffeescript because once they get used to Coffeescript syntax, their point disappears, but the reduced verbosity stays.
 * It gets rid of some gotchas that tend to get new Javascript devs (0==”0’)
+Documentation: http://coffeescript.org/
 
 ### SASS
 All styles should be written in this.
 Reasons for choosing SASS:
 * Adds variables to CSS. Very useful sometimes.
 * Syntax similar to Coffeescript, which we are also using
+Docuemntation: http://sass-lang.com/documentation/file.SASS_REFERENCE.html
 
 ### Broccoli
 The most advanced (non) build step that handles all the things we are using.
+Dcomentation: https://github.com/broccolijs/broccoli
 
 ### Cordova
 Webpage -> native app
+Documentation: http://cordova.apache.org/docs/en/4.0.0/
 
 ### React.js
 View framework
@@ -69,21 +73,28 @@ Reasons for choosing React:
 * Forces developers to divide code into many components. This is good for maintainability and reusability.
 * Eliminates the possibility of common performance mistakes.
 * Used on and developed by facebook.com, instagram.com, khanacademy.org and many more
+Documentation: http://facebook.github.io/react/docs/getting-started.html
 
 ### Flux
 Application Architecture
 Reasons for choosing Flux:
 * Built around scalable productivity (not just your productivity right now but someone else’s when they see your code for the first time). Our code is expected to change hands every semester, so it is essential we use an application architecture that is designed for this
 * Pairs well with React
+Documentation: http://facebook.github.io/flux/docs/overview.html
 
 ### NPM/Bower
 Javascript Dependency management
+Documentation:
+* https://docs.npmjs.com/
+* http://bower.io/
 
 ### Browserify
 Allow you to use node.js style modules in the browser. ES6 modules are not ready yet, so this is our only choice.
+Documentation: https://github.com/substack/node-browserify#usage
 
 ### Promises
 The solve a common Javascript pattern called callback hell.
+Dcomentation: https://promisesaplus.com/
 
 Directory structure
 ------------------
