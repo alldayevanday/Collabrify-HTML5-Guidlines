@@ -140,7 +140,7 @@ https://github.com/styleguide/javascript
 
 Dependencies
 -----------
-All dependencies must be documented. You may use NPM and/or Bower. All dependency code, regardless of it is obtained from should be considered source.
+All dependencies must be documented. You may use NPM and/or Bower. All dependency code, regardless of how it is obtained from should be considered source.
 
 Manually downloading and linking to dependencies is highly discouraged.
 
