@@ -122,7 +122,7 @@ Here is the suggested directory structure
 			index.coffee (entery point of the application)
 		/sass
 	/public
-	This should contain only static file (html/static js/images/static css/etc)
+	This should contain only static files (html/static js/images/static css/etc)
 		/img
 		index.html
 	
